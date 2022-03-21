@@ -12,6 +12,3 @@
 测试环境DC运行：
 
 ![image-20210902132456283](https://images-1258433570.cos.ap-beijing.myqcloud.com/images/image-20210902132456283.png)
-
-### 知识星球
-<img src="https://images-1258433570.cos.ap-beijing.myqcloud.com/images/20210912184747.png" width="400"> 
